@@ -1,0 +1,6 @@
+- [x] check whether the SOLID Principles are used or not
+- [x] check function for their cognitive complexity
+- [x] check Usage MVP design Architecture Pattern.
+- [ ] check vulnerability while adding dependency.
+- [ ] write unit test for functional implementation
+- [x] Code should be readable
